@@ -16,8 +16,15 @@
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
+    "esbuild": "^0.9.2",
     "haute-couture": "3.x.x",
-    "joi": "17.x.x"
+    "htm": "^3.0.4",
+    "joi": "17.x.x",
+    "jsesc": "^3.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1",
+    "trumpet": "^1.7.2"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
