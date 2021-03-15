@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
+    "@hapi/inert": "^6.0.3",
+    "browser-sync": "^2.26.14",
     "esbuild": "^0.9.2",
     "haute-couture": "3.x.x",
     "htm": "^3.0.4",
